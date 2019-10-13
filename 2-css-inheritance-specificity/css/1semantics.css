@@ -1,0 +1,8 @@
+body{background:black;color:white;}
+h1 {color:green;}
+h2 {color:magenta;}
+h3 {color:blue}
+h4 {color:red;}
+#copyright {color:aqua;}
+.important {color:white;font-style:italic;font-weight:bold;}
+.orange{color:orange;font-size:1.5rem;}
